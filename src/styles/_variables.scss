@@ -1,0 +1,42 @@
+// colors
+$primary-color: #1976d2; // Blue 700
+$primary-light: #42a5f5; // Blue 400
+$primary-dark: #1565c0; // Blue 800
+
+$secondary-color: #9c27b0; // Purple 500
+$secondary-light: #ba68c8; // Purple 300
+$secondary-dark: #7b1fa2; // Purple 700
+
+$error-color: #d32f2f; // Red 700
+$error-light: #ef5350; // Red 400
+$error-dark: #c62828; // Red 800
+
+$warning-color: #f57c00; // Orange 700
+$warning-light: #ffa726; // Orange 400
+$warning-dark: #e65100; // Orange 900
+
+$info-color: #0288d1; // Light Blue 700
+$info-light: #03a9f4; // Light Blue 400
+$info-dark: #01579b; // Light Blue 900
+
+$success-color: #388e3c; // Green 700
+$success-light: #66bb6a; // Green 400
+$success-dark: #2e7d32; // Green 800
+
+$text-primary: #212121; // Grey 900
+$text-secondary: #757575; // Grey 600
+
+$background-default: #fafafa; // Grey 50
+$background-paper: #ffffff; // White
+
+// breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+$breakpoint-xxl: 1400px;
+
+// fonts
+$font-size-base: 14px;
+$font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+  "Lucida Sans Unicode", Geneva, Verdana, sans-serif;

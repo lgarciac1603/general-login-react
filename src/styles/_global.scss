@@ -1,0 +1,6 @@
+@use "./variables" as vars;
+
+* {
+  font-family: vars.$font-family;
+  font-size: vars.$font-size-base;
+}
