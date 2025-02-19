@@ -6,6 +6,7 @@ const initialState: SessionState = {
   id: "",
   name: "",
   admin: false,
+  token: "",
 };
 
 export const sessionSlice = createSlice({
